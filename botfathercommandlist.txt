@@ -1,0 +1,13 @@
+start - Start the bot
+help - Get a list of commands
+info - Get bot information
+checkdev - Check if you are a developer
+shutdown - Shut down the bot (for developers only)
+restart - Restart the bot (for developers only)
+weather - Get the current weather information
+IP check - Check IP address and location
+version - Get the bot's current version
+userinfo - Get your user information
+copyright - Show copyright information
+sharebot - Share this bot with others
+language - Change the bot's language (options: English, Russian, Ukrainian, Polish, German)
