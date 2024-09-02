@@ -45,7 +45,7 @@ Kamek Info is a versatile Telegram bot designed to handle a variety of tasks inc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[Your-Username]/Kamek-AI-Bot.git
+   git clone https://github.com/KamekHax/Kamek-Info-Telegram-Bot
    cd Kamek-AI-Bot
    ```
 
